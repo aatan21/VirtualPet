@@ -1,8 +1,10 @@
 
 void setup(){
-  //some of your code here
+  size(400, 400);
+  background(255, 255, 255);
 }
+
 void draw(){
-  //more of your code here
+  triangle(100, 250, 200, 150, 300, 250);
 }
 
