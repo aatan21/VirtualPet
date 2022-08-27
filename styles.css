@@ -12,11 +12,10 @@ body {
 }
 
 header {
-	System.out.print("Low-poly Dragon");	
+	
 }
 
 footer {
 	font-style: italic;
 	font-size: 90%;
-	System.out.print("Aaron Tan");
 }
